@@ -6,7 +6,7 @@
 2. [Project Motivation](https://github.com/access2abey/Write-a-Data-Science-Blog-Post#Project-Motivation)
 3. [File Descriptions](https://github.com/access2abey/Write-a-Data-Science-Blog-Post#File-Descriptions)
 4. [Results](https://github.com/access2abey/Write-a-Data-Science-Blog-Post#Results)
-5. [Acknowledgements](https://github.com/access2abey/Write-a-Data-Science-Blog-Post#Licensing, Authors, Acknowledgements)
+5. [Acknowledgements](https://github.com/access2abey/Write-a-Data-Science-Blog-Post#Licensing-Authors-Acknowledgements)
 
 ## Installation
 No libraries is needed to run the code than the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
