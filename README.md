@@ -31,7 +31,7 @@ There are 1 notebook available here to showcase work related to the above questi
 **_data.csv_**  - This file is the complete dataset that contains all informaiton about players' attributes.
 
 ## Results
-The main outcomes of the code can be found at the post available [here.](https://medium.com/@nurudeenadesina/embracing-data-science-will-make-you-a-better-football-manager-d86b76d320b1)
+The main results of the code can be found at the post available [here.](https://medium.com/@nurudeenadesina/embracing-data-science-will-make-you-a-better-football-manager-d86b76d320b1)
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Aman Shrivastava & EA Sports for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
