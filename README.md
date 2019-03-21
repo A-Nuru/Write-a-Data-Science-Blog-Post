@@ -26,7 +26,7 @@ Understanding these questions may provide some useful insights to the Profession
 
 
 ## File Descriptions
-There are 1 notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+There is a notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 
 **_data.csv_**  - This file is the complete dataset that contains all informaiton about players' attributes.
 
